@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @i-viveksingh
-- 👀 I’m interested in Front end develoment And blockchain
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on dev3
+hello 
+this profile is vivek singh github
+currently i am learning blockchain and using its features to develope and create projects using solidity,node.js and truffle
+you can contact me through gmail - golusingh.singh.9484@gmail.com
+
 
 <!---
 i-viveksingh/i-viveksingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

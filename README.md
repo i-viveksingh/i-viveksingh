@@ -1,7 +1,7 @@
 <h1 align="center">Hi dev👋, I'm Vivek Singh</h1>
 <h3 align="center">A Blockchain Developer</h3>
 
-<img align="right" alt="coding" width"400" src="https://dribbble.com/shots/3848914-Programmer-Thomas">
+<imgsrc="https://dribbble.com/shots/3848914-Programmer-Thomas" align="right" alt="coding" width"400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-viveksingh&label=Profile%20views&color=0e75b6&style=flat" alt="i-viveksingh" /> </p>
 

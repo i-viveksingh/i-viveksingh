@@ -33,7 +33,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ko-fi.com/viveksingh"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/viveksingh" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-viveksingh&show_icons=true&locale=en&layout=compact" alt="i-viveksingh" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-viveksingh&show_icons=true&locale=en&layout=compact" alt="i-viveksingh" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=i-viveksingh&show_icons=true&locale=en" alt="i-viveksingh" /></p>
 

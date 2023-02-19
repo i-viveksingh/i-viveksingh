@@ -1,7 +1,7 @@
 <h1 align="center">Hi dev👋, I'm Vivek Singh</h1>
 <h3 align="center">A Blockchain Developer</h3>
 
-<imgsrc="https://dribbble.com/shots/3848914-Programmer-Thomas" align="right" alt="coding" width"400">
+<img align="center" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-viveksingh&label=Profile%20views&color=0e75b6&style=flat" alt="i-viveksingh" /> </p>
 
@@ -16,6 +16,8 @@
 - 💬 Ask me about **Ethereum,Solidity,Nodejs,Hyperledger fabric**
 
 - 📫 How to reach me **Golusingh.singh.9484@gmail.com**
+
+- ⚡ Fun fact **Smile you will feel good**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Golusingh.singh.9484@gmail.com**
 
-- ⚡ Fun fact **Smile you will feel good**
+- ⚡ Fun fact   **Smile you will feel good**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
